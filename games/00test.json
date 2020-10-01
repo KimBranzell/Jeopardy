@@ -7,27 +7,27 @@
   "comments": "Game 7353",
   "J": {
     "category_J_1": {
-      "category_name": "SVART HUMOR",
+      "category_name": "KATEGORI 1",
       "category_comments": ""
     },
     "category_J_2": {
-      "category_name": "90-TALET",
+      "category_name": "KATEGORI 2",
       "category_comments": ""
     },
     "category_J_3": {
-      "category_name": "SVENSKA SERIEKLASSIKER",
+      "category_name": "KATEGORI 3",
       "category_comments": ""
     },
     "category_J_4": {
-      "category_name": "SIGNATURMELODIER",
+      "category_name": "KATEGORI 4",
       "category_comments": ""
     },
     "category_J_5": {
-      "category_name": "ID KOMMUNIKATION",
+      "category_name": "KATEGORI 5",
       "category_comments": ""
     },
     "category_J_6": {
-      "category_name": "OM SOFIE OCH ANNA",
+      "category_name": "KATEGORI 6",
       "category_comments": ""
     },
     "clue_J_1_1": {
@@ -39,9 +39,9 @@
     },
     "clue_J_2_1": {
       "id": "308310",
-      "clue_html": "Golden pippin &amp; Ambrosia are types of this",
-      "clue_text": "Golden pippin & Ambrosia are types of this",
-      "correct_response": "an apple"
+      "clue_html": "Denna sifferkombination utgör andra delen av den populära 90-talsserien <em>Beverly Hills _____</em>",
+      "clue_text": "Denna sifferkombination utgör andra delen av den populära 90-talsserien Beverly Hills.",
+      "correct_response": "90210"
     },
     "clue_J_3_1": {
       "id": "308312",
