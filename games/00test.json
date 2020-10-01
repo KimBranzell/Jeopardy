@@ -7,35 +7,35 @@
   "comments": "Game 7353",
   "J": {
     "category_J_1": {
-      "category_name": "KATEGORI 1",
+      "category_name": "SITCOMS",
       "category_comments": ""
     },
     "category_J_2": {
-      "category_name": "KATEGORI 2",
+      "category_name": "ID KOMMUNIKATION",
       "category_comments": ""
     },
     "category_J_3": {
-      "category_name": "KATEGORI 3",
+      "category_name": "SVENSKA SERIEKLASSIKER",
       "category_comments": ""
     },
     "category_J_4": {
-      "category_name": "KATEGORI 4",
+      "category_name": "BOKFILMATISERINGAR",
       "category_comments": ""
     },
     "category_J_5": {
-      "category_name": "KATEGORI 5",
+      "category_name": "URSÄKTA FRANSKAN",
       "category_comments": ""
     },
     "category_J_6": {
-      "category_name": "KATEGORI 6",
+      "category_name": "SVENSKA HOMOFONER",
       "category_comments": ""
     },
+
     "clue_J_1_1": {
       "id": "308284",
-      "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-07-27_J_11.jpg\" target=\"_blank\">Sarah of the Clue Crew reports from the Ronald Reagan Presidential Library.</a>)  In San Diego on August 4, 2007, Barry Bonds hit this ball 382 feet to tie the all-time home run record of this man, technically",
-      "clue_text": "(Sarah of the Clue Crew reports from the Ronald Reagan Presidential Library.)  In San Diego on August 4, 2007, Barry Bonds hit this ball 382 feet to tie the all-time home run record of this man, technically",
-      "correct_response": "Hank Aaron",
-      "media": ["http://localhost:3000/media/2016-07-27_J_11.jpg"]
+      "clue_html": "&quot;Ted Mosby, Architect&quot; och &quot;How Lily Stole Christmas&quot; är namn på avsnitt i denna friarstråthistoria",
+      "clue_text": "\"Ted Mosby, Architect\" och \"How Lily Stole Christmas\" är namn på avsnitt i denna friarstråthistoria",
+      "correct_response": "How I Met Your Mother"
     },
     "clue_J_2_1": {
       "id": "308310",
@@ -57,22 +57,22 @@
     },
     "clue_J_5_1": {
       "id": "308317",
-      "clue_html": "Holyhead,<br>Pwll",
-      "clue_text": "Holyhead,Pwll",
-      "correct_response": "Wales"
+      "clue_html": "Kaffe med mjölk",
+      "clue_text": "Kaffe med mjölk",
+      "correct_response": "Cafe au lait"
     },
     "clue_J_6_1": {
       "id": "308321",
-      "clue_html": "In Roman amphitheaters, trap doors led to numerous passageways beneath this fighting space",
-      "clue_text": "In Roman amphitheaters, trap doors led to numerous passageways beneath this fighting space",
-      "correct_response": "the arena"
+      "clue_html": "Gör man med ett av sina sinnen, samt ort i mellersta Skåne",
+      "clue_text": "Gör man med ett av sina sinnen, samt ort i mellersta Skåne",
+      "correct_response": "Hör/Höör"
     },
+
     "clue_J_1_2": {
       "id": "308285",
-      "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-07-27_J_12.jpg\" target=\"_blank\">Kelly of the Clue Crew reports from the Ronald Reagan Presidential Library.</a>)  Here&apos;s the ball hit by this Yankee legend who broke a 44-game hitting streak record held by &quot;Wee Willie&quot; Keeler",
-      "clue_text": "(Kelly of the Clue Crew reports from the Ronald Reagan Presidential Library.)  Here's the ball hit by this Yankee legend who broke a 44-game hitting streak record held by \"Wee Willie\" Keeler",
-      "correct_response": "Joe DiMaggio",
-      "media": ["http://localhost:3000/media/2016-07-27_J_12.jpg"]
+      "clue_html": "Mark Wahlberg producerade & gästspelade i denna serie som gick på HBO från 2004 till 2011",
+      "clue_text": "Mark Wahlberg producerade & gästspelade i denna serie som gick på HBO från 2004 till 2011",
+      "correct_response": "Entourage"
     },
     "clue_J_2_2": {
       "id": "308311",
@@ -94,23 +94,23 @@
     },
     "clue_J_5_2": {
       "id": "308296",
-      "clue_html": "Dunoon,<br>Clydebank",
-      "clue_text": "Dunoon,Clydebank",
-      "correct_response": "Scotland"
+      "clue_html": "Herre Gud!",
+      "clue_text": "Herre Gud!",
+      "correct_response": "Mon Dieu!"
     },
     "clue_J_6_2": {
       "id": "308297",
       "triple_stumper": true,
-      "clue_html": "Last name of Geoffrey, the first American fashion designer to open a Milan show",
-      "clue_text": "Last name of Geoffrey, the first American fashion designer to open a Milan show",
-      "correct_response": "Beene"
+      "clue_html": "Frukostvätska, vägdel och fotslip",
+      "clue_text": "Frukostvätska, vägdel och fotslip",
+      "correct_response": "Fil"
     },
+
     "clue_J_1_3": {
       "id": "308286",
-      "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-07-27_J_14.jpg\" target=\"_blank\">Kelly of the Clue Crew reports from the Ronald Reagan Presidential Library.</a>)  No major leaguer will ever again be permanently assigned the number of the jersey worn by this man",
-      "clue_text": "(Kelly of the Clue Crew reports from the Ronald Reagan Presidential Library.)  No major leaguer will ever again be permanently assigned the number of the jersey worn by this man",
-      "correct_response": "Jackie Robinson",
-      "media": ["http://localhost:3000/media/2016-07-27_J_14.jpg"]
+      "clue_html": "Innan han spelade en av huvudrollerna i &quot;The Big Bang Theory&quot;, hånglade han med sin framtida motspelare Mayim Bialik i &quot;Blossom&quot;",
+      "clue_text": "Innan han spelade en av huvudrollerna i \"The Big Bang Theory\", hånglade han med sin framtida motspelare Mayim Bialik i \"Blossom\"",
+      "correct_response": "Johnny Galecki"
     },
     "clue_J_2_3": {
       "id": "308288",
@@ -133,16 +133,17 @@
     },
     "clue_J_5_3": {
       "id": "308318",
-      "clue_html": "Slough,<br>Rutland",
-      "clue_text": "Slough,Rutland",
-      "correct_response": "England"
+      "clue_html": "Det stora priset",
+      "clue_text": "Det stora priset",
+      "correct_response": "Grand prix"
     },
     "clue_J_6_3": {
       "id": "308322",
-      "clue_html": "This powdered root is mixed with water &amp; adds spiciness to sashimi",
-      "clue_text": "This powdered root is mixed with water & adds spiciness to sashimi",
-      "correct_response": "wasabi"
+      "clue_html": "Bilskor och högtid",
+      "clue_text": "Bilskor och högtid",
+      "correct_response": "Hjul/Jul"
     },
+
     "clue_J_1_4": {
       "id": "308287",
       "clue_html": "(<a href=\"http://www.j-archive.com/media/2016-07-27_J_15.jpg\" target=\"_blank\">Sarah of the Clue Crew reports from the Ronald Reagan Presidential Library.</a>)  Here&apos;s the 1957 MVP award for this Yankee, but that was a bit of an off year for him: he&apos;d won the Triple Crown the previous year with 18 more home runs &amp; 36 more RBIs",
@@ -171,16 +172,17 @@
     "clue_J_5_4": {
       "id": "308319",
       "triple_stumper": true,
-      "clue_html": "Woking,<br>Bootle",
-      "clue_text": "Woking,Bootle",
-      "correct_response": "England"
+      "clue_html": "Vitt kort",
+      "clue_text": "vitt kort",
+      "correct_response": "Carte Blance"
     },
     "clue_J_6_4": {
       "id": "308298",
-      "clue_html": "A narrow strip of land; Greece has one of Corinth",
-      "clue_text": "A narrow strip of land; Greece has one of Corinth",
-      "correct_response": "an isthmus"
+      "clue_html": "Nummer och<br>sagofigur",
+      "clue_text": "Nummer och sagofigur",
+      "correct_response": "Elva/Älva"
     },
+
     "clue_J_1_5": {
       "id": "308309",
       "triple_stumper": true,
@@ -209,15 +211,15 @@
     },
     "clue_J_5_5": {
       "id": "308320",
-      "clue_html": "Bangor,<br>Swansea",
-      "clue_text": "Bangor,Swansea",
-      "correct_response": "Wales"
+      "clue_html": "Watcha doin'?",
+      "clue_text": "Watcha doin'?",
+      "correct_response": "Tu fais quoi? / Qu'est-ce que tu fais?"
     },
     "clue_J_6_5": {
       "id": "308323",
-      "clue_html": "Yes, Miss Earhart, this 10-letter word means &quot;to improve&quot;",
-      "clue_text": "Yes, Miss Earhart, this 10-letter word means \"to improve\"",
-      "correct_response": "ameliorate"
+      "clue_html": "Bestämd form singular av pysselverktyg och tyskt förbundsland",
+      "clue_text": "Bestämd form singular av pysselverktyg och tyskt förbundsland",
+      "correct_response": "Sachsen"
     }
   },
   "DJ": {

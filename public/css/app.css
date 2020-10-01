@@ -32,6 +32,8 @@
   position: relative;
   top: 50%;
   transform: translateY(-50%);
+  width: 75%;
+  margin: 0 auto;
 }
 
 .jeopardy-board .category-cell {
@@ -61,7 +63,7 @@
   background: #0015a0;
   color: #ffffff;
   font-family: "Kadwa", serif;
-  font-size: 400%;
+  font-size: 500%;
   text-shadow: 4px 4px #000000;
   text-transform: uppercase;
   text-align: center;
