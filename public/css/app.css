@@ -101,7 +101,7 @@
 }
 
 .player-name {
-  font-family: "Kadwa", serif;
+  font-family: "Heebo", serif;
   text-transform: uppercase;
 }
 
@@ -152,7 +152,8 @@
 }
 
 .player-name {
-  font-size: 25px;
+  font-size: 40px;
+  font-weight: 700;
 }
 
 .player-ind-score {
@@ -168,9 +169,15 @@
 }
 
 .show-control {
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
   border-radius: 50%;
   background: #ffcc00;
   margin-right: 15px;
+  -webkit-filter: drop-shadow(4px 4px 0px black);
+          filter: drop-shadow(4px 4px 0px black);
+}
+
+.score-row {
+  padding: 1rem;
 }

@@ -226,226 +226,231 @@
       "category_comments": ""
     },
     "category_DJ_2": {
-      "category_name": "MONEY MATTERS",
+      "category_name": "MALMÖ",
       "category_comments": ""
     },
     "category_DJ_3": {
-      "category_name": "COMEDY TONIGHT",
+      "category_name": "RIO-ORD",
       "category_comments": ""
     },
     "category_DJ_4": {
-      "category_name": "KATTER",
+      "category_name": "LANDET MED NATIONALDAGEN",
       "category_comments": ""
     },
     "category_DJ_5": {
-      "category_name": "BEASTLY APPENDAGES",
+      "category_name": "SKÅL!",
       "category_comments": ""
     },
     "category_DJ_6": {
-      "category_name": "KICK OUT THE \"JAM\"s",
+      "category_name": "SVENGELSKA LÅTAR",
       "category_comments": ""
     },
+
     "clue_DJ_1_1": {
       "id": "308368",
-      "clue_html": "The real Boone favored beaver hats, not these alliterative items, which he is said to have thought uncivilized",
-      "clue_text": "The real Boone favored beaver hats, not these alliterative items, which he is said to have thought uncivilized",
-      "correct_response": "coonskin caps"
+      "clue_html": "I böckerna om Sune får vi träffa denna tjej som Sune är kär i.",
+      "clue_text": "I böckerna om Sune får vi träffa denna tjej som Sune är kär i.",
+      "correct_response": "Sophie Blixt"
     },
     "clue_DJ_2_1": {
       "id": "308370",
       "triple_stumper": true,
-      "clue_html": "In 2015 a California man paid $2.5 million (or 250 million of these) for just one of these made in 1792",
-      "clue_text": "In 2015 a California man paid $2.5 million (or 250 million of these) for just one of these made in 1792",
-      "correct_response": "a penny"
+      "clue_html": "Denna byggnad i Nyhamnen har besökts av artister som Axwell, Petter och Tiësto.",
+      "clue_text": "Denna byggnad i Nyhamnen har besökts av artister som Axwell, Petter och Tiësto.",
+      "correct_response": "Slagthuset"
     },
     "clue_DJ_3_1": {
       "id": "308325",
-      "clue_html": "How do you stop police from tailing you in L.A.? Get Damon Wayans to give you bananas, like Eddie Murphy did in this &apos;84 film",
-      "clue_text": "How do you stop police from tailing you in L.A.? Get Damon Wayans to give you bananas, like Eddie Murphy did in this '84 film",
-      "correct_response": "Beverly Hills Cop"
+      "clue_html": "En grupp på tre",
+      "clue_text": "En grupp på tre",
+      "correct_response": "tRIO"
     },
     "clue_DJ_4_1": {
       "id": "308341",
-      "clue_html": "She&apos;s Blanche DuBois&apos; sister",
-      "clue_text": "She's Blanche DuBois' sister",
-      "correct_response": "Stella"
+      "clue_html": "Detta land firar grundlagens antagande i Eidsvoll 1814",
+      "clue_text": "Detta land firar grundlagens antagande i Eidsvoll 1814",
+      "correct_response": "Norge"
     },
     "clue_DJ_5_1": {
       "id": "308372",
-      "clue_html": "The venom-packed stinger of the Arizona barbed variety of <a href=\"http://www.j-archive.com/media/2016-07-27_DJ_30.jpg\" target=\"_blank\">this</a> desert arachnid can deliver a fatal dose to humans",
-      "clue_text": "The venom-packed stinger of the Arizona barbed variety of this desert arachnid can deliver a fatal dose to humans",
-      "correct_response": "a scorpion",
-      "media": ["http://localhost:3000/media/2016-07-27_DJ_30.jpg"]
+      "clue_html": "Gin, Vermouth och en eller två oliver.",
+      "clue_text": "Gin, Vermouth och en eller två oliver.",
+      "correct_response": "(Dry) Martini"
     },
     "clue_DJ_6_1": {
       "id": "308373",
-      "clue_html": "Let&apos;s have one of these alliterative 2-word sleepovers",
-      "clue_text": "Let's have one of these alliterative 2-word sleepovers",
+      "clue_html": "Du kan bli beroende av en viss sorts ledsamhet, såsom underkastelse till slutet, alltid slutet.",
+      "clue_text": "Du kan bli beroende av en viss sorts ledsamhet, såsom underkastelse till slutet, alltid slutet.",
       "correct_response": "a pajama party"
     },
+    
     "clue_DJ_1_2": {
       "id": "308338",
-      "clue_html": "Born in 1734, Daniel was turned down when he volunteered to serve in this conflict at the age of 78",
-      "clue_text": "Born in 1734, Daniel was turned down when he volunteered to serve in this conflict at the age of 78",
-      "correct_response": "the War of 1812"
+      "clue_html": "Hon började sin kärriär på Broadway i musikalen <em>High Society</em> och har sedan dess synts i bland annat <em>Twilight</em> och <em>Pitch Perfect</em>",
+      "clue_text": "Hon började sin kärriär på Broadway i musikalen High Society och har sedan dess synts i bland annat Twilight och Pitch Perfect",
+      "correct_response": "Anna Kendrick"
     },
     "clue_DJ_2_2": {
       "id": "308339",
-      "clue_html": "In 2012 this former Argentine first lady was honored on that country&apos;s 100-peso note",
-      "clue_text": "In 2012 this former Argentine first lady was honored on that country's 100-peso note",
-      "correct_response": "Eva PerÛn"
+      "clue_html": "Detta landmärke såldes vid millenieskiftets början till Hyundai för den symboliska summan 1 dollar.",
+      "clue_text": "Detta landmärke såldes vid millenieskiftets början till Hyundai för den symboliska summan 1 dollar.",
+      "correct_response": "Kockumskranen"
     },
     "clue_DJ_3_2": {
       "id": "308326",
-      "clue_html": "<a href=\"http://www.j-archive.com/media/2016-07-27_DJ_06.jpg\" target=\"_blank\">This</a> late, great comic said, &quot;Nice guys finish first. if you don&apos;t know that, then you don&apos;t know where the finish line is&quot;",
-      "clue_text": "This late, great comic said, \"Nice guys finish first. if you don't know that, then you don't know where the finish line is\"",
-      "correct_response": "(Garry) Shandling",
-      "media": ["http://localhost:3000/media/2016-07-27_DJ_06.jpg"]
+      "clue_html": "Välkänt leksaks-, och senare också barnvagnsföretag som startade sin verksamhet i Osby kommun.",
+      "clue_text": "Välkänt leksaks-, och senare också barnvagnsföretag som startade sin verksamhet i Osby kommun.",
+      "correct_response": "BRIO"
     },
     "clue_DJ_4_2": {
       "id": "308371",
       "triple_stumper": true,
-      "clue_html": "In books by Beverly Cleary, Ramona&apos;s older sister is Beatrice, nicknamed this",
-      "clue_text": "In books by Beverly Cleary, Ramona's older sister is Beatrice, nicknamed this",
-      "correct_response": "Beezus"
+      "clue_html": "I detta land är nationaldagen S:t Patrick's Day",
+      "clue_text": "I detta land är nationaldagen S:t Patrick's Day",
+      "correct_response": "Irland"
     },
     "clue_DJ_5_2": {
       "id": "308342",
-      "clue_html": "To eat, snails extend a digestive organ called a radula covered with thousands of denticles, their version of these",
-      "clue_text": "To eat, snails extend a digestive organ called a radula covered with thousands of denticles, their version of these",
+      "clue_html": "Tequila, Cointreau, socker och limejuice. Lite salt är också bra.",
+      "clue_text": "Tequila, Cointreau, socker och limejuice. Lite salt är också bra.",
       "correct_response": "teeth"
     },
     "clue_DJ_6_2": {
       "id": "308344",
-      "clue_html": "I&apos;ll skip the crawfish pie &amp; file gumbo, but pas me this rice, meat &amp; seafood dish",
-      "clue_text": "I'll skip the crawfish pie & file gumbo, but pas me this rice, meat & seafood dish",
-      "correct_response": "jambalaya"
+      "clue_html": "Helt ensam har jag gråtit tysta tårar fulla av stolthet. I en värld full av stål, gjord av sten.",
+      "clue_text": "Helt ensam har jag gråtit tysta tårar fulla av stolthet. I en värld full av stål, gjord av sten.",
+      "correct_response": "Irene Cara - Flashdance... What a Feeling"
     },
+
     "clue_DJ_1_3": {
       "id": "308369",
-      "clue_html": "After Boone&apos;s death in 1820, this Brit made him the subject of 7 stanzas of &quot;Don Juan&quot;",
-      "clue_text": "After Boone's death in 1820, this Brit made him the subject of 7 stanzas of \"Don Juan\"",
-      "correct_response": "Lord Byron"
+      "clue_html": "Denna skådespelerska spelade Sansa Stark i Game of Thrones",
+      "clue_text": "Denna skådespelerska spelade Sansa Stark i Game of Thrones",
+      "correct_response": "Sophie Turner"
     },
     "clue_DJ_2_3": {
       "id": "308324",
       "triple_stumper": true,
-      "clue_html": "Lady Liberty used to be on the obverse of this coin until a president began getting face time in 1946",
-      "clue_text": "Lady Liberty used to be on the obverse of this coin until a president began getting face time in 1946",
-      "correct_response": "dime"
+      "clue_html": "I Bokskogen står detta välbevarade renässansslott, som länge tillhörde ätten Coyet",
+      "clue_text": "I Bokskogen står detta välbevarade renässansslott, som länge tillhörde ätten Coyet",
+      "correct_response": "Torups slott",
+      "media": ["https://upload.wikimedia.org/wikipedia/commons/0/05/Torups_slott_fr%C3%A5n_norr.jpg"]
     },
     "clue_DJ_3_3": {
       "id": "308327",
-      "clue_html": "In standup specials this &quot;D List&quot; comic &quot;Does the Bible Belt&quot; &amp; was &quot;50 and not Pregnant&quot;",
-      "clue_text": "In standup specials this \"D List\" comic \"Does the Bible Belt\" & was \"50 and not Pregnant\"",
-      "correct_response": "Kathy Griffin"
+      "clue_html": "Bil utan eller med nedfällbart tak",
+      "clue_text": "Bil utan eller med nedfällbart tak",
+      "correct_response": "CabRIOlet"
     },
     "clue_DJ_4_3": {
       "id": "308332",
-      "clue_html": "Jessica &amp; Elizabeth are the twin blonde sisters introduced in the &quot;Sweet&quot; series of young adult books",
-      "clue_text": "Jessica & Elizabeth are the twin blonde sisters introduced in the \"Sweet\" series of young adult books",
-      "correct_response": "Sweet Valley High"
+      "clue_html": "Landet som firar att kampen mot turkarna inleddes på Peloponnesos",
+      "clue_text": "Landet som firar att kampen mot turkarna inleddes på Peloponnesos",
+      "correct_response": "Grekland"
     },
     "clue_DJ_5_3": {
       "id": "308330",
-      "clue_html": "On animals like lizards, autotomy is an evasive defense mechanism that lets them do this",
-      "clue_text": "On animals like lizards, autotomy is an evasive defense mechanism that lets them do this",
-      "correct_response": "get rid of their tail"
+      "clue_html": "Cachaça, lime och socker",
+      "clue_text": "Cachaça, lime och socker",
+      "correct_response": "Caipirinha"
     },
     "clue_DJ_6_3": {
       "id": "308336",
-      "clue_html": "Slang for money, particularly in $100 form",
-      "clue_text": "Slang for money, particularly in $100 form",
-      "correct_response": "Benjamins"
+      "clue_html": "Dare to let go now, stop being afraid to get hurt. That's how it's got to be.",
+      "clue_text": "Dare to let go now, stop being afraid to get hurt. That's how it's got to be.",
+      "correct_response": "Victor Leksell - Svag"
     },
+
     "clue_DJ_1_4": {
       "id": "308366",
       "triple_stumper": true,
-      "clue_html": "In 1775 Boone bought his family to this settlement that still bears his name",
-      "clue_text": "In 1775 Boone bought his family to this settlement that still bears his name",
-      "correct_response": "Boonesborough"
+      "clue_html": "Denna välkända, 18 cm höga, tuggleksak är populär bland barn med tandsprickning",
+      "clue_text": "Denna välkända, 18 cm höga, tuggleksak är populär bland barn med tandsprickning",
+      "correct_response": "Sophie the Giraffe",
+      "media": ["https://www.babipur.co.uk/media/catalog/product/cache/1/image/1425x/9df78eab33525d08d6e5fb8d27136e95/s/o/sophie_the_giraffe_teether.jpg"]
     },
     "clue_DJ_2_4": {
       "id": "308331",
       "daily_double": true,
-      "clue_html": "It&#x2019;s the basic monetary unit of Gibraltar",
-      "clue_text": "Itís the basic monetary unit of Gibraltar",
-      "correct_response": "the pound"
+      "clue_html": "Ett annat namn för grönområdet Falsterboplan",
+      "clue_text": "Ett annat namn för grönområdet Falsterboplan",
+      "correct_response": "Jesusparken"
     },
     "clue_DJ_3_4": {
       "id": "308328",
-      "clue_html": "Lucille Bluth, on this show: &quot;That coat cost more than your house!... Oh, that&apos;s how we joke. She doesn&apos;t even have a house&quot;",
-      "clue_text": "Lucille Bluth, on this show: \"That coat cost more than your house!... Oh, that's how we joke. She doesn't even have a house\"",
-      "correct_response": "Arrested Development"
+      "clue_html": "Ledad docka som med hjälp av trådar eller liknande styrs av en människa",
+      "clue_text": "Ledad docka som med hjälp av trådar eller liknande styrs av en människa",
+      "correct_response": "MaRIOnett"
     },
     "clue_DJ_4_4": {
       "id": "308333",
       "daily_double": true,
-      "clue_html": "Suellen &amp; Carreen O&#x2019;Hara are a flighty pair of sisters in this novel.",
-      "clue_text": "Suellen & Carreen OíHara are a flighty pair of sisters in this novel.",
-      "correct_response": "Gone with the Wind"
+      "clue_html": "I detta land firas minnet av de första straffångarnas ankomst",
+      "clue_text": "I detta land firas minnet av de första straffångarnas ankomst",
+      "correct_response": "Australien"
     },
     "clue_DJ_5_4": {
       "id": "308335",
-      "clue_html": "The 22 bright pink appendages of this uniquely &quot;nosed&quot; mole are used to identify prey",
-      "clue_text": "The 22 bright pink appendages of this uniquely \"nosed\" mole are used to identify prey",
+      "clue_html": "Vodka, lime och ingefärsöl. Färsk ingefära och lime som dekorering.",
+      "clue_text": "Vodka, lime och ingefärsöl. Färsk ingefära och lime som dekorering.",
       "correct_response": "star (the star-nosed mole)"
     },
     "clue_DJ_6_4": {
       "id": "308337",
       "triple_stumper": true,
-      "clue_html": "The first part of the name of these krazy klassic komic &quot;Kids&quot; is from an old word for a hangover",
-      "clue_text": "The first part of the name of these krazy klassic komic \"Kids\" is from an old word for a hangover",
-      "correct_response": "the Katzenjammer Kids"
+      "clue_html": "Morsan, alla blommor som du planterade på bakgården, dog när du for bort.",
+      "clue_text": "Morsan, alla blommor som du planterade på bakgården, dog när du for bort.",
+      "correct_response": "Sinéad O'Connor - Nothing Compares 2 U"
     },
+    
     "clue_DJ_1_5": {
       "id": "308367",
       "triple_stumper": true,
-      "clue_html": "In 1775 Boone &amp; about 30 companions built this &quot;Road&quot; leading from Virginia into Kentucky &amp; points west",
-      "clue_text": "In 1775 Boone & about 30 companions built this \"Road\" leading from Virginia into Kentucky & points west",
-      "correct_response": "the Wilderness Road"
+      "clue_html": "Denna golfspelerska fick sitt genombrott i LGPA-mästerskapen 2009 och innehar en topp 100-placering i antalet majorvinster.",
+      "clue_text": "Denna golfspelerska fick sitt genombrott i LGPA-mästerskapen 2009 och innehar en topp 100-placering i antalet majorvinster.",
+      "correct_response": "Anna Nordqvist"
     },
     "clue_DJ_2_5": {
       "id": "308340",
-      "clue_html": "A 2007 Portuguese 5-euro coin honoring the Boy Scout depicted this Brit",
-      "clue_text": "A 2007 Portuguese 5-euro coin honoring the Boy Scout depicted this Brit",
-      "correct_response": "(Lord) Baden-Powell"
+      "clue_html": "Detta numera försvunna torg i östra delen av nuvarande Baltzarsgatan var på mitten av 1800-talet ökänt som centrum för stadens prostitution.",
+      "clue_text": "Detta numera försvunna torg i östra delen av nuvarande Baltzarsgatan var på mitten av 1800-talet ökänt som centrum för stadens prostitution.",
+      "correct_response": "Sladdertorget"
     },
     "clue_DJ_3_5": {
       "id": "308329",
-      "clue_html": "Luther was President Obama&apos;s &quot;anger translator&quot; on this Comedy Central show",
-      "clue_text": "Luther was President Obama's \"anger translator\" on this Comedy Central show",
+      "clue_html": "Äldre benämning på sulfathydrater som bildar glasliknande kristaller",
+      "clue_text": "Äldre benämning på sulfathydrater som bildar glasliknande kristaller",
       "correct_response": "Key & Peele"
     },
     "clue_DJ_4_5": {
       "id": "308334",
-      "clue_html": "Last name of Elinor &amp; Marianne, the sisters who embody the &quot;Sense &amp; Sensibility&quot; in Jane Austen&apos;s novel",
-      "clue_text": "Last name of Elinor & Marianne, the sisters who embody the \"Sense & Sensibility\" in Jane Austen's novel",
-      "correct_response": "Dashwood"
+      "clue_html": "Här firar man folkomröstningen i juni 1946 då monarkin röstades bort",
+      "clue_text": "Här firar man folkomröstningen i juni 1946 då monarkin röstades bort",
+      "correct_response": "Italien"
     },
     "clue_DJ_5_5": {
       "id": "308343",
       "triple_stumper": true,
-      "clue_html": "These lesser apes have 5 toes on each foot just like us, but the big toe is opposable",
-      "clue_text": "These lesser apes have 5 toes on each foot just like us, but the big toe is opposable",
-      "correct_response": "gibbons"
+      "clue_html": "Hembränt och en skiva falukorv",
+      "clue_text": "Hembränt och en skiva falukorv",
+      "correct_response": "Pajala Sunrise"
     },
     "clue_DJ_6_5": {
       "id": "308345",
-      "clue_html": "It&apos;s paired with &quot;Kashmir&quot; in the name of an Indian state",
-      "clue_text": "It's paired with \"Kashmir\" in the name of an Indian state",
-      "correct_response": "Jammu"
+      "clue_html": "And it's like it's my father's voice, when he was still happy and young, before the song became silent in his terminally ill chest and his life became sad and heavy.",
+      "clue_text": "And it's like it's my father's voice, when he was still happy and young, before the song became silent in his terminally ill chest and his life became sad and heavy.",
+      "correct_response": "Mando Diao/Gustav Fröding - Strövtåg i Hembygden"
     }
   },
   "FJ": {
     "category_FJ_1": {
-      "category_name": "20th CENTURY ENGLISH NOBILITY",
+      "category_name": "BAKOM PSEUDONYMEN",
       "category_comments": ""
     },
     "clue_FJ": {
-      "clue_html": "In Africa on Nov. 26, 1922, he anxiously asked Howard Carter, &#x201C;Can you see anything?&#x201D;",
-      "clue_text": "In Africa on Nov. 26, 1922, he anxiously asked Howard Carter, ìCan you see anything?î",
-      "correct_response": "Lord Carnarvon"
+      "clue_html": "Hon föddes som Caryn Elaine Johnson och är en av blott 16 som vunnit både en Emmy, en Grammy, en Oscar och en Tony Award.",
+      "clue_text": "Hon föddes som Caryn Elaine Johnson och är en av blott 16 som vunnit både en Emmy, en Grammy, en Oscar och en Tony Award.",
+      "correct_response": "Whoopi Goldberg"
     }
   }
 }

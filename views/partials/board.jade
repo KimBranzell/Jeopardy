@@ -8,8 +8,7 @@ each k in ['J', 'DJ']
           .col-md-4.player-score 
               span.show-control(ng-show='game.control_player == "player_#{i}"')
               div.player-name-score
-                span.player-name {{game.player_#{i}.name}}: 
-                span.player-ind-score {{game.player_#{i}.score || 0 | currency:'':0}}
+                span.player-name {{game.player_#{i}.name}}
     .row.board-row.category-row
       each i in [1, 2, 3, 4, 5, 6]
         .col-md-2.text-center.board-cell.category-cell
