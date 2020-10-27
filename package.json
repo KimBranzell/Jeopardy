@@ -8,7 +8,7 @@
     "errorhandler": "^1.4.2",
     "express": "~4.13.3",
     "fs": "0.0.1-security",
-    "http-proxy": "^1.11.1",
+    "http-proxy": "^1.18.1",
     "jade": "~1.11.0",
     "jsonfile": "^2.2.1",
     "lodash": "^3.10.1",
