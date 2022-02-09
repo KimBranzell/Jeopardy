@@ -1,5 +1,5 @@
 .video-wrapper(ng-if='!game.round')
-  iframe(width="560", height="315", src="https://www.youtube.com/embed/VU6zFha5y4A?autoplay=1", frameborder="0", allowfullscreen)
+  iframe(width="560", height="315", src="https://www.youtube.com/embed/VU6zFha5y4A?autoplay=1&rel=0", frameborder="0", allowfullscreen)
 
 each k in ['J', 'DJ']
   .container-fluid.jeopardy-board(ng-show='game.round == "#{k}"')
