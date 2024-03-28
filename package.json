@@ -13,7 +13,7 @@
     "body-parser": "^1.19.2",
     "cheerio": "^1.0.0-rc.11",
     "errorhandler": "^1.5.1",
-    "express": "~4.17.3",
+    "express": "~4.19.2",
     "fs": "0.0.2",
     "http-proxy": "^1.18.1",
     "json-schema": "^0.4.0",
