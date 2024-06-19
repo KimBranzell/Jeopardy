@@ -23,7 +23,7 @@
     "morgan": "^1.10.0",
     "pug": "~3.0.3",
     "request": "^2.88.2",
-    "socket.io": "~3.1.2"
+    "socket.io": "~4.6.2"
   },
   "engines": {
     "yarn": ">= 1.0.0"
